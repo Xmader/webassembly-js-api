@@ -1,0 +1,40 @@
+{
+    "name": "@types/webassembly-js-api",
+    "version": "0.0.3",
+    "description": "TypeScript definitions for WebAssembly v1 (MVP)",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "01alchemist",
+            "url": "https://twitter.com/01alchemist"
+        },
+        {
+            "name": "Wink Saville",
+            "url": "wink@saville.com"
+        },
+        {
+            "name": "Periklis Tsirakidis",
+            "url": "https://github.com/periklis",
+            "githubUsername": "periklis"
+        },
+        {
+            "name": "Sergey Rubanov",
+            "url": "https://github.com/chicoxyzzy",
+            "githubUsername": "chicoxyzzy"
+        },
+        {
+            "name": "Xmader",
+            "url": "https://github.com/Xmader",
+            "githubUsername": "Xmader"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Xmader/webassembly-js-api.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typeScriptVersion": "2.2"
+}
